@@ -14,7 +14,7 @@ export const Footer = () => {
           </div>
           
           <p className="text-sm text-muted-foreground">
-            © {currentYear} Omnicom Production. All rights reserved.
+            Thanks for visiting! Made with ❤️ by Mahesh Bhatt. 
           </p>
         </div>
       </div>
