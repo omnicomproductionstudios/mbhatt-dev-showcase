@@ -37,7 +37,7 @@ export const BrandsSection = () => {
       <div className="container mx-auto px-6 relative z-10">
         <div className="text-center mb-16">
           <span className="text-primary text-sm font-medium uppercase tracking-widest">Collaborations</span>
-          <h2 className="section-title mt-4">Brands We've Worked With</h2>
+          <h2 className="section-title mt-4">Brands I Worked With</h2>
           <p className="text-muted-foreground mt-4 max-w-2xl mx-auto">
             Trusted by world-renowned brands to deliver exceptional digital experiences.
           </p>
